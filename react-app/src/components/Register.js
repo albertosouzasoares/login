@@ -87,7 +87,7 @@ const Register = () => {
 				<hr />
 				
 				<div className="options">
-					<Link to="/">Login</Link>
+					<Link to="/login">Login</Link>
 				</div>
 			</Box>	
 		</BoxLogin>
