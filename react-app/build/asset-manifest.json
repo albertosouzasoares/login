@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/registro-login/static/css/main.2f13bacb.css",
+    "main.js": "/registro-login/static/js/main.91a7cfcf.js",
+    "index.html": "/registro-login/index.html",
+    "main.2f13bacb.css.map": "/registro-login/static/css/main.2f13bacb.css.map",
+    "main.91a7cfcf.js.map": "/registro-login/static/js/main.91a7cfcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f13bacb.css",
+    "static/js/main.91a7cfcf.js"
+  ]
+}
